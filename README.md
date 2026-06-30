@@ -37,7 +37,7 @@ The goal is to help financial institutions automate the loan approval process by
 ##  Project Structure
 
 ```
-├── project1.ipynb          # Complete ML workflow
+├── LoanPrediction.ipynb    # Complete ML workflow
 ├── dataset.csv             # Loan dataset (if included)
 ├── README.md               # Project documentation
 └── requirements.txt        # Required Python libraries
